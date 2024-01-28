@@ -11,6 +11,9 @@ STARTCODE ID
 About
 </h3>
 
+
+
+
 StartCode is a dynamic IT services company dedicated to meeting the diverse technological needs of businesses. With a strong focus on delivering tailored solutions, StartCode specializes in three key service areas (Software Development, IT Outsourcing and Technology Expertise).  
 
 - <p align="left" style="font-size:15px;font-weight:bold;">Software development</p>
@@ -24,7 +27,10 @@ StartCode is a dynamic IT services company dedicated to meeting the diverse tech
 <p align="justify">StartCode prides itself on its proficiency in various technologies and programming languages. Our team remains updated with the latest industry trends, ensuring that your projects benefit from the most innovative and effective solutions.  Getting Started: Ready to explore the possibilities with StartCode? Initiating our services is a straightforward process. Simply reach out to us through our website or contact us directly, and we'll promptly schedule a consultation. During this consultation, we'll delve into your project, discuss your goals, and outline how StartCode can play a pivotal role in turning your vision into reality. We look forward to collaborating with you on your journey to technological excellence.</p>
 
 
-<p align="center" style="font-size:30px;font-weight:bold;">Tech Stack</p>
+<h3 align="left" style="font-size:20px;font-weight:bold;">
+About
+</h3>
+
 <img src="assets/techstack.png">
 
 
