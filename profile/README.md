@@ -1,6 +1,7 @@
 <p align="center" style="font-size:40px;font-weight:bold;">
 STARTCODE ID
 </p>
+
 <p align="center">
 
   <img src="assets/scode.png" style="width:200px;height:200px;" alt="Sublime's custom image"/>
@@ -12,10 +13,9 @@ About
 
 StartCode is a dynamic IT services company dedicated to meeting the diverse technological needs of businesses. With a strong focus on delivering tailored solutions, StartCode specializes in three key service areas (Software Development, IT Outsourcing and Technology Expertise).  
 
-- <p align="left" style="font-size:15px;font-weight:bold;">
-Software development</p>
-StartCode excels in crafting cutting-edge software solutions to address the unique requirements of your business. Our team of skilled professionals is proficient in a range of programming languages, including Java, Python, JavaScript, Golang, PHP, and more. We are committed to staying abreast of the latest industry trends, ensuring that our clients benefit from the most advanced and efficient software applications.  
-
+- <p align="left" style="font-size:15px;font-weight:bold;">Software development</p>
+<p align="justify">StartCode excels in crafting cutting-edge software solutions to address the unique requirements of your business. Our team of skilled professionals is proficient in a range of programming languages, including Java, Python, JavaScript, Golang, PHP, and more. We are committed to staying abreast of the latest industry trends, ensuring that our clients benefit from the most advanced and efficient software applications.  
+</p>
 - <p align="left" style="font-size:15px;font-weight:bold;">IT outsourcing</p>
 IT outsourcing is a core offering at StartCode, where we provide external expertise and services to manage your IT needs. By outsourcing IT tasks to our team of seasoned professionals, your business can reduce costs, gain access to specialized skills, and concentrate on core activities. We strive to be your reliable partner, handling IT-related responsibilities while you focus on strategic business objectives.  
 
