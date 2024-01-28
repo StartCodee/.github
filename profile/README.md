@@ -3,7 +3,7 @@ STARTCODE ID
 </p>
 <p align="center">
 
-  <img src="./assets/scode.png" alt="Sublime's custom image"/>
+  <img src="assets/scode.png" alt="Sublime's custom image"/>
 </p>
 
 <p align="left" style="font-size:20px;font-weight:bold;">
