@@ -28,8 +28,11 @@ StartCode is a dynamic IT services company dedicated to meeting the diverse tech
 
 
 <h3 align="left" style="font-size:20px;font-weight:bold;">
-Teach Stack
+Tech Stack
 </h3>
+<br>
+<br>
+<br>
 
 <img src="assets/techstack.png">
 
