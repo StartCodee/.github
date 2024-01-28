@@ -4,7 +4,7 @@ STARTCODE ID
 
 <p align="center">
 
-  <img src="assets/scode.png" style="width:200px;height:200px;" alt="Sublime's custom image"/>
+  <img src="assets/lp.png"  alt="Sublime's custom image"/>
 </p>
 
 <h3 align="left" style="font-size:20px;font-weight:bold;">
