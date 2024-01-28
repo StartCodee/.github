@@ -3,7 +3,7 @@ STARTCODE ID
 </p>
 <p align="center">
 
-  <img src="assets/scode.png" alt="Sublime's custom image"/>
+  <img src="assets/scode.png" style="width:200px;height:200px;" alt="Sublime's custom image"/>
 </p>
 
 <p align="left" style="font-size:20px;font-weight:bold;">
@@ -25,7 +25,7 @@ StartCode prides itself on its proficiency in various technologies and programmi
 
 
 <p align="center" style="font-size:30px;font-weight:bold;">Tech Stack</p>
-<img src="./assets/techstack.png">
+<img src="assets/techstack.png">
 
 ## Tech
 
