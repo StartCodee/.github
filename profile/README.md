@@ -34,7 +34,7 @@ Tech Stack
 <br>
 <br>
 
-<img src="assets/techstack.png">
+<img src="techstack.png">
 
 
 ## 🤝 Support
